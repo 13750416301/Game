@@ -1,1 +1,1 @@
-These are some codes I wrote when I was learning game coding.
+These are some codes I wrote when I was learning html game coding.
